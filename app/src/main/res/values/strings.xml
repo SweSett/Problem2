@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WalmartLogin</string>
+    <string name="electronics">Electronics</string>
+    <string name="clothes">Clothes</string>
+    <string name="beauty">Beauty</string>
+    <string name="food">Food</string>
+    <string name="color_color">Color: color</string>
+    <string name="walmart_number">Walmart #: 555948101</string>
+    <string name="item_description_nasdfad">Item Description:\nasdfad</string>
+</resources>
+
